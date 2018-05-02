@@ -8,9 +8,10 @@ A work in progress. Written as a refresher for how some key abstract data types 
 
 ## WIP:
 * Queue
+* MaxHeap (Failing Test)
+* MinHeap (Failing Test)
 
 # To Do:
 * Linked List
 * Trie
-* Heap
 * Graph
