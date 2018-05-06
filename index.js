@@ -3,11 +3,14 @@ const Stack = require('./lib/Stack');
 const BinarySearchNode = require('./lib/BinarySearchTree');
 const MaxHeap = require('./lib/Heap/MaxHeap');
 const MinHeap = require('./lib/Heap/MinHeap');
+const { Graph, GraphVertex } = require('./lib/Graph/');
 
 module.exports = {
   Queue,
   Stack,
   BinarySearchNode,
   MaxHeap,
-  MinHeap
+  MinHeap,
+  Graph,
+  GraphVertex
 }

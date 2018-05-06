@@ -11,10 +11,10 @@ Currently the data in a node must be a primitive data type for any ordering and 
 
 ## WIP:
 * Queue
+* Graph (Missing bi-directional search)
 
 # To Do:
 * Linked List
 * Trie
-* Graph
 * ArrayList
 * Map
