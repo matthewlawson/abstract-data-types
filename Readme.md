@@ -8,13 +8,13 @@ Currently the data in a node must be a primitive data type for any ordering and 
 * Stack
 * MaxHeap 
 * MinHeap 
+* Trie
 
 ## WIP:
-* Queue
+* Queue (Inefficiant use of array.shift())
 * Graph (Missing bi-directional search)
 
 # To Do:
 * Linked List
-* Trie
 * ArrayList
 * Map

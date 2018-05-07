@@ -2,7 +2,7 @@ const { expect } = require('chai');
 const sinon = require('sinon');
 const { Graph, GraphVertex } = require('../index');
 
-describe.only('Graph', () => {
+describe('Graph', () => {
   describe('constructor', () => {
     it('does not throw', () => {
       const init = () => new Graph();
