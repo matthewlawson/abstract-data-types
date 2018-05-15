@@ -5,6 +5,7 @@ const MaxHeap = require('./lib/Heap/MaxHeap');
 const MinHeap = require('./lib/Heap/MinHeap');
 const { Graph, GraphVertex } = require('./lib/Graph/');
 const Trie = require('./lib/Trie');
+const SingleLinkedList = require('./lib/LinkedList/SingleLinkedList');
 
 module.exports = {
   Queue,
@@ -14,5 +15,6 @@ module.exports = {
   MinHeap,
   Graph,
   GraphVertex,
-  Trie
+  Trie,
+  SingleLinkedList
 }
